@@ -1,0 +1,24 @@
+{
+  "name": "js-datacollection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "scripts": {
+    "type": "module",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duclayan/js-datacollection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duclayan/js-datacollection/issues"
+  },
+  "homepage": "https://github.com/duclayan/js-datacollection#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
